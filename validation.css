@@ -1,0 +1,31 @@
+.jumbotron {
+  background-image: none;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: none;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:20px;
+}
+
+p {
+  color: black;
+  font-size: 18px;  
+  font-family: "calibri";
+}
+
+p .error{
+  color: red;
+  font-size: 18px;  
+  font-family: "calibri";
+}
+
+h1 {
+  text-align: left;
+  color: #ffffff;
+  font-weight: 300;
+  margin: 0 0 40px;
+}

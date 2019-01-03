@@ -1,0 +1,19 @@
+.jumbotron {
+  background-image: none;
+  min-height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: none;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:20px;
+}
+
+.p {
+  color: black;
+  font-size: 18px;  
+  font-family: "calibri";
+  font-weight: bold;
+}
